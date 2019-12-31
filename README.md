@@ -25,3 +25,6 @@ Make a simple todo application that can add todo items and complete them.
 - Don't worry about styling. Focus on JS.
 - You may not use any frameworks.
 
+--- 
+
+![Example App](./example.gif)
